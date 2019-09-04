@@ -1,1 +1,1 @@
-# PHP7-CRM
+This is the Inventory Management CRM system. It allows users to manage companies, inventory, invoices. The user also can manage product varieties, Variety code, Categories & Types. It also lets the user download the invoice report after successful generation of invoice  It allows the user to manage the inventory module based on their roles. (e.g. admin user can manager product varieties, Variety code, Categories & Types)
