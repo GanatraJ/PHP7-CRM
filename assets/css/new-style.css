@@ -1,0 +1,12 @@
+.system-name{ text-align: center; }
+.stretch-col{ -webkit-align-items: stretch; align-items: stretch; }
+.cust-radio .cust-btn{ display: inline; height: auto; width: auto; }
+.download_btn{ color: #fff;font-weight: 600; }
+.download_btn:hover{ color: #fff; }
+#side-menu-bar{ max-height: 93%; }
+@media only screen and (max-width: 768px) {
+	#main-navbar #login-logo-img,#main-navbar .system-name,.desk-invoice{ display: none; }
+	.body-content{ top: 100px; }
+	.dropdown-arrow.custom::after{ right: 28px; }
+	.flex-big-item{ padding: 0; }
+}
